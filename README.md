@@ -1,2 +1,2 @@
 # Pupil
-School project repo
+A school project repo
